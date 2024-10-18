@@ -43,6 +43,7 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "https://github.com/Refreije/angular-primeros-pasos",
               "budgets": [
                 {
                   "type": "initial",
